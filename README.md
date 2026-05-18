@@ -23,7 +23,7 @@
 
 [PostgreSQL: архитектура и тюнинг SQL-запросов](https://devhands.ru/postgresql) | Автор: Николай Ихалайнен
 
-[Highload Architect](https://otus.ru/lessons/highloadarchitect/) | Авторы: Константин Новаковский, Андрей Поляков, Виталий Юшкевич
+[Highload Architect](https://otus.ru/lessons/highloadarchitect/) | Авторы: Константин Новаковский, Андрей Поляков, Александр Хохлов, Виталий Юшкевич
 
 \+ ещё несколько десятков материалов, часть которых перечислю позже.
  
