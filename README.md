@@ -10,9 +10,9 @@
 
 [<b>JS</b>](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | OTUS | Автор: Иван Афонченко  
 
-[<b>SQL</b>](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) | OTUS | Автор: Анастасия Чекушина
-
 [<b>Git</b>](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/) | OTUS | Автор: Андрей Вилков 
+
+[<b>SQL</b>](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) | OTUS | Автор: Анастасия Чекушина
 
 ---
 ## DevOps
