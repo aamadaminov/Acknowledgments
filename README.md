@@ -28,6 +28,8 @@
 
 [<b>Yandex Monitoring</b>](https://storage.yandexcloud.net/yc-edu-self-courses-certs/certificates/498802761_yc-devops-monitoring_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B0%D0%B4%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2.pdf) | Yandex
 
+Авторы от Yandex: Роман Бунин, Александр Душеин, Дмитрий Жечков, Игорь Им, Нурсултан Калниязов, Андрей Лаврецкий, Кузьма Лешаков, Алексей Миртов, Рами Мулейс, Игорь Путятин, Павел Селиванов, Вячеслав Федосеев, Сергей Цаплин 
+
 ---
 ## &&
 
