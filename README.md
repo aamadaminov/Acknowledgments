@@ -10,7 +10,7 @@
 ---
 ## DevOps
 
-[<b>Linux</b>](https://otus.ru/certificate/d0c08463258f42129bdd90b1a9cef3e4/) | OTUS | [<b>Astra Linux</b>](https://disk.yandex.ru/i/iBv1kUd1AnA66Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://disk.yandex.ru/i/2GDm3MD5I3sKwg) | [Verification](https://astra.ru/training/authorized-training/#cert) | Softline / Astra
+[<b>Astra Linux</b>](https://disk.yandex.ru/i/iBv1kUd1AnA66Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://disk.yandex.ru/i/2GDm3MD5I3sKwg) | [Verification](https://astra.ru/training/authorized-training/#cert) | Astra / Softline | [<b>Linux</b>](https://otus.ru/certificate/d0c08463258f42129bdd90b1a9cef3e4/) | OTUS 
 
 [<b>Cloud Computing</b>](https://storage.yandexcloud.net/yc-edu-self-courses-certs/certificates/498860998_yc-cross-cloud_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B0%D0%B4%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2.pdf) | [<b>Cloud Services Engineer</b>](https://disk.yandex.ru/d/SzaquVrez-xB_A) | Yandex
 
