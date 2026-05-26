@@ -3,7 +3,9 @@
 
 [<b>Microservices in Go</b>](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e/) | OTUS 
 
-[<b>C++</b>](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | [<b>PHP</b>](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/) | [<b>JS</b>](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | [<b>SQL</b>](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) | [<b>Git</b>](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/) | OTUS  
+[<b>C++</b>](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | [<b>PHP</b>](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/) | [<b>JS</b>](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | OTUS  
+
+[<b>SQL</b>](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) | [<b>Git</b>](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/) | OTUS  
 
 ---
 ## DevOps
