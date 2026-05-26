@@ -2,7 +2,8 @@
 
 ## Programming
 
-[<b>Microservices in Go</b>](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e/) | OTUS 
+[<b>Microservices in Go</b>](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e/) | OTUS | Авторы: Константин Войта, Евгений Федосеев, Илья Феоктистов, Александр Хохлов, Арслан Юсифов
+
 
 [<b>C++</b>](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | [<b>PHP</b>](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/) | [<b>JS</b>](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | OTUS  
 
@@ -36,7 +37,7 @@
 ---
 ## &&
 
-<b>Ansible / Kubernetes / Terraform / Kafka / Cassandra</b> | Автор: Сергей Бондарев, Алексей Бурылов, Александр Волочнев, Всеволод Севостьянов, Павел Селиванов
+<b>Ansible / Kubernetes / Terraform / Kafka / Cassandra</b> | Авторы: Сергей Бондарев, Алексей Бурылов, Александр Волочнев, Всеволод Севостьянов, Павел Селиванов
 
 <b>Highload Architect</b> | Авторы: Дмитрий Золотов, Дмитрий Кириллов, Олег Мифле, Константин Новаковский, Андрей Поляков, Александр Хохлов, Виталий Юшкевич
 
