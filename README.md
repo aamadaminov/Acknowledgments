@@ -4,10 +4,15 @@
 
 [<b>Microservices in Go</b>](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e/) | OTUS | Авторы: Константин Войта, Евгений Федосеев, Илья Феоктистов, Александр Хохлов, Арслан Юсифов
 
+[<b>C++</b>](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | OTUS | Автор: Сергей Кольцов
 
-[<b>C++</b>](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | [<b>PHP</b>](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/) | [<b>JS</b>](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | OTUS  
+[<b>PHP</b>](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/) | OTUS | Автор: Александр Пряхин
 
-[<b>SQL</b>](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) | [<b>Git</b>](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/) | OTUS  
+[<b>JS</b>](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | OTUS | Автор: Иван Афонченко  
+
+[<b>SQL</b>](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) | OTUS | Автор: Анастасия Чекушина
+
+[<b>Git</b>](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/) | OTUS | Автор: Андрей Вилков 
 
 ---
 ## DevOps
@@ -33,6 +38,11 @@
 [<b>Yandex Monitoring</b>](https://storage.yandexcloud.net/yc-edu-self-courses-certs/certificates/498802761_yc-devops-monitoring_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B0%D0%B4%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2.pdf) | Yandex
 
 Авторы от Yandex: Роман Бунин, Александр Душеин, Дмитрий Жечков, Игорь Им, Нурсултан Калниязов, Андрей Лаврецкий, Кузьма Лешаков, Алексей Миртов, Рами Мулейс, Игорь Путятин, Павел Селиванов, Вячеслав Федосеев, Сергей Цаплин 
+
+---
+## SRE
+
+[<b>Лекторий по SRE</b>](https://edu.tbank.ru) | Тинькофф | Автор: Дмитрий Масленников 
 
 ---
 ## &&
