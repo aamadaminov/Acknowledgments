@@ -4,6 +4,8 @@
 
 [<b>Microservices in Go</b>](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | OTUS | Авторы: Константин Войта, Евгений Федосеев, Илья Феоктистов, Александр Хохлов, Арслан Юсифов
 
+<b>Автоматизированное тестирование тестирование веб-сервисов на Go</b> | Ozon Tech
+
 <b>Продвинутая разработка микросервисов на Go</b> | Ozon Tech
 
 <b>Разработка веб-сервисов на Go</b> | Mail.ru Group / VK | Автор: Василий Романов
@@ -51,8 +53,6 @@
 <b>Ansible / Kubernetes / Terraform / Kafka </b> | Авторы: Сергей Бондарев, Алексей Бурылов, Всеволод Севостьянов, Павел Селиванов
 
 <b>Автоматизированное тестирование веб-сервисов на Python</b> | Ozon Tech
-
-<b>Автоматизированное тестирование тестирование веб-сервисов на Go</b> | Ozon Tech
 
 <b>Инфраструктурная платформа на основе Kubernetes</b> | Авторы: Тимур Батыршин, Ярослав Будянский, Алексей Елагин, Дмитрий Золотов, Михаил Чугунов
 
