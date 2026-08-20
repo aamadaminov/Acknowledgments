@@ -1,8 +1,10 @@
-<b>Бесконечная благодарность преподавателям!</b>
+<b>Бесконечная благодарность моим наставникам и преподавателям!</b>
 
 ## Programming
 
-[<b>Microservices in Go</b>](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e/) | OTUS | Авторы: Константин Войта, Евгений Федосеев, Илья Феоктистов, Александр Хохлов, Арслан Юсифов
+[<b>Microservices in Go</b>](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | OTUS | Авторы: Константин Войта, Евгений Федосеев, Илья Феоктистов, Александр Хохлов, Арслан Юсифов
+
+<b>Продвинутая разработка микросервисов на Go</b> | Ozon Tech
 
 [<b>C++</b>](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | OTUS | Автор: Сергей Кольцов
 
@@ -46,6 +48,10 @@
 
 <b>Ansible / Kubernetes / Terraform / Kafka </b> | Авторы: Сергей Бондарев, Алексей Бурылов, Всеволод Севостьянов, Павел Селиванов
 
+<b>Автоматизированное тестирование веб-сервисов на Python</b> | Ozon Tech
+
+<b>Автоматизированное тестирование тестирование веб-сервисов на Go</b> | Ozon Tech
+
 <b>Инфраструктурная платформа на основе Kubernetes</b> | Авторы: Тимур Батыршин, Ярослав Будянский, Алексей Елагин, Дмитрий Золотов, Михаил Чугунов
 
 <b>Разработка веб-сервисов на Go</b> | Автор: Василий Романов
@@ -61,3 +67,6 @@
 <b>PostgreSQL: архитектура и тюнинг SQL-запросов</b> | Автор: Николай Ихалайнен
 
 <b>System Design</b> | Автор: Александр Поломодов
+
+
+
