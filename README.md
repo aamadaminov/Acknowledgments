@@ -72,9 +72,11 @@
 ## Books (the best)
 
 [<b>Designing Data-Intensive Applications</b>](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Автор: Martin Kleppmann
+
 <b>Высоконагруженные приложения. Программирование, масштабирование, поддержка</b> | Автор: Мартин Клеппман
 
 [<b>Database Internals</b>](https://www.oreilly.com/library/view/database-internals/9781492040330/) | Автор: Alex Petrov
+
 <b>Распределенные данные. Алгоритмы работы современных систем хранения информации</b> | Автор: Александр (Алекс) Петров
 
 
