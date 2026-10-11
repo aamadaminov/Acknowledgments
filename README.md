@@ -41,7 +41,7 @@
 <br>
 Авторы от Yandex: Роман Бунин, Александр Душеин, Дмитрий Жечков, Игорь Им, Нурсултан Калниязов, Андрей Лаврецкий, Кузьма Лешаков, Алексей Миртов, Рами Мулейс, Игорь Путятин, Павел Селиванов, Вячеслав Федосеев, Сергей Цаплин 
 <br>
-[<b>Astra Linux</b>](https://disk.yandex.ru/i/iBv1kUd1AnA66Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://drive.google.com/file/d/1483-oiceeildGBZH3v2BX2orWN5JvGiy/view?usp=sharing) | [Verification](https://astra.ru/training/authorized-training/#cert) | Astra / Softline
+[<b>Astra Linux</b>](https://drive.google.com/file/d/1nOkAt_JQHl9QgWbVZp3l9rqB6Us8E3W3/view?usp=sharing) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://drive.google.com/file/d/1483-oiceeildGBZH3v2BX2orWN5JvGiy/view?usp=sharing) | [Verification](https://astra.ru/training/authorized-training/#cert) | Astra / Softline
 <br>
 [<b>Linux</b>](https://otus.ru/certificate/d0c08463258f42129bdd90b1a9cef3e4/en/) | OTUS | Автор: Андрей Буранов 
 <br>
