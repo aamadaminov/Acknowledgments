@@ -2,7 +2,7 @@
 
 ## Programming
 
-[<b>Microservices in Go</b>](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | OTUS | Авторы: Константин Войта, Евгений Федосеев, Илья Феоктистов, Александр Хохлов, Арслан Юсифов
+[<b>Microservices in Go</b>](https://drive.google.com/file/d/1T5a5x83K-vpf0CUJdJnabuGoN62xVV8D/view?usp=sharing) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | OTUS | Авторы: Константин Войта, Евгений Федосеев, Илья Феоктистов, Александр Хохлов, Арслан Юсифов
 <br>
 <b>Автоматизированное тестирование тестирование веб-сервисов на Go</b> | Ozon Tech
 <br>
