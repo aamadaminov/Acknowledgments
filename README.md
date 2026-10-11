@@ -10,15 +10,15 @@
 <br>
 <b>Разработка веб-сервисов на Go</b> | Mail.ru Group / VK | Автор: Василий Романов
 <br>
-[<b>C++</b>](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | OTUS | Автор: Сергей Кольцов
+[<b>C++</b>](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/en/) | OTUS | Автор: Сергей Кольцов
 <br>
-[<b>PHP</b>](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/) | OTUS | Автор: Александр Пряхин
+[<b>PHP</b>](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/en/) | OTUS | Автор: Александр Пряхин
 <br>
-[<b>JS</b>](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | OTUS | Автор: Иван Афонченко
+[<b>JS</b>](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/en/) | OTUS | Автор: Иван Афонченко
 <br>
-[<b>Git</b>](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/) | OTUS | Автор: Андрей Вилков
+[<b>Git</b>](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/en/) | OTUS | Автор: Андрей Вилков
 <br>
-[<b>SQL</b>](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) | OTUS | Автор: Анастасия Чекушина
+[<b>SQL</b>](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/en/) | OTUS | Автор: Анастасия Чекушина
 
 ---
 ## DevOps / SRE
@@ -43,7 +43,7 @@
 <br>
 [<b>Astra Linux</b>](https://disk.yandex.ru/i/iBv1kUd1AnA66Q) | [Verification](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Certificate](https://drive.google.com/file/d/1483-oiceeildGBZH3v2BX2orWN5JvGiy/view?usp=sharing) | [Verification](https://astra.ru/training/authorized-training/#cert) | Astra / Softline
 <br>
-[<b>Linux</b>](https://otus.ru/certificate/d0c08463258f42129bdd90b1a9cef3e4/) | OTUS | Автор: Андрей Буранов 
+[<b>Linux</b>](https://otus.ru/certificate/d0c08463258f42129bdd90b1a9cef3e4/en/) | OTUS | Автор: Андрей Буранов 
 <br>
 [<b>Лекторий по SRE</b>](https://edu.tbank.ru) | Tinkoff | Автор: Дмитрий Масленников 
 
