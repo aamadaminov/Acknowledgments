@@ -81,4 +81,4 @@
 <br>
 <b>Распределенные данные. Алгоритмы работы современных систем хранения информации</b> | Автор: Александр (Алекс) Петров
 
-
+[<b>Kafka: The Definitive Guide, 2nd Edition](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/) | Авторы: Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty
