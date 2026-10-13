@@ -75,11 +75,11 @@
 
 [<b>Designing Data-Intensive Applications</b>](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Автор: Martin Kleppmann
 <br>
-<b>Высоконагруженные приложения. Программирование, масштабирование, поддержка</b> | Автор: Мартин Клеппман
+[<b>Высоконагруженные приложения. Программирование, масштабирование, поддержка</b>](https://www.piter.com/collection/all/product/vysokonagruzhennye-prilozheniya-programmirovanie-masshtabirovanie-podderzhka-2) | Автор: Мартин Клеппман
 
 [<b>Database Internals</b>](https://www.oreilly.com/library/view/database-internals/9781492040330/) | Автор: Alex Petrov
 <br>
-<b>Распределенные данные. Алгоритмы работы современных систем хранения информации</b> | Автор: Александр (Алекс) Петров
+[<b>Распределенные данные. Алгоритмы работы современных систем хранения информации</b>](https://www.piter.com/collection/all/product/pogruzhenie-v-mir-raspredelennyh-dannyh-algoritmy-raboty-sovremennyh-sistem-hraneniya-informatsii) | Автор: Александр (Алекс) Петров
 
 [<b>Kafka: The Definitive Guide, 2nd Edition</b>](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/) | Авторы: Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty
 <br>
