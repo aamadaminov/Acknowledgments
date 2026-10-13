@@ -83,4 +83,4 @@
 
 [<b>Kafka: The Definitive Guide, 2nd Edition</b>](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/) | Авторы: Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty
 <br>
-[<b>Apache Kafka. Потоковая обработка и анализ данных, 2-е издание</b>](https://www.piter.com/collection/all/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh-2-e-izdanie) | Авторы: Шапира Г. , Палино Т. , Сиварам Р. , Петти К.
+[<b>Apache Kafka. Потоковая обработка и анализ данных, 2-е издание</b>](https://www.piter.com/collection/all/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh-2-e-izdanie) | Авторы: Гвен Шапира, Тодд Палино, Раджини Сиварам, Крит Петти
