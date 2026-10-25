@@ -85,4 +85,4 @@
 <br>
 [<b>Apache Kafka. Потоковая обработка и анализ данных, 2-е издание</b>](https://www.piter.com/collection/all/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh-2-e-izdanie) | Авторы: Гвен Шапира, Тодд Палино, Раджини Сиварам, Крит Петти
 
-[<b>Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание, дополненное и исправленное</b>](https://www.piter.com/collection/uchebniki-dlya-tehnikumov-i-vuzov-14/product/kompyuternye-seti-printsipy-tehnologii-protokoly-yubileynoe-izdanie-dopolnennoe-i-ispravlennoe) | Авторы: Виктор Олифер, Наталья Олифер
+[<b>Компьютерные сети. Принципы, технологии, протоколы. Юбилейное издание, дополненное и исправленное</b>](https://www.piter.com/collection/uchebniki-dlya-tehnikumov-i-vuzov-14/product/kompyuternye-seti-printsipy-tehnologii-protokoly-yubileynoe-izdanie-dopolnennoe-i-ispravlennoe) | Авторы: Виктор Олифер, Наталья Олифер
