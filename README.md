@@ -79,8 +79,10 @@
 
 [<b>Database Internals</b>](https://www.oreilly.com/library/view/database-internals/9781492040330/) | Автор: Alex Petrov
 <br>
-[<b>Распределенные данные. Алгоритмы работы современных систем хранения информации</b>](https://www.piter.com/collection/all/product/pogruzhenie-v-mir-raspredelennyh-dannyh-algoritmy-raboty-sovremennyh-sistem-hraneniya-informatsii) | Автор: Александр (Алекс) Петров
+[<b>Распределенные данные. Алгоритмы работы современных систем хранения информации</b>](https://www.piter.com/collection/all/product/pogruzhenie-v-mir-raspredelennyh-dannyh-algoritmy-raboty-sovremennyh-sistem-hraneniya-informatsii) | Автор: Александр Петров
 
 [<b>Kafka: The Definitive Guide, 2nd Edition</b>](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/) | Авторы: Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty
 <br>
 [<b>Apache Kafka. Потоковая обработка и анализ данных, 2-е издание</b>](https://www.piter.com/collection/all/product/apache-kafka-potokovaya-obrabotka-i-analiz-dannyh-2-e-izdanie) | Авторы: Гвен Шапира, Тодд Палино, Раджини Сиварам, Крит Петти
+
+[<b>Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание, дополненное и исправленноее</b>](https://www.piter.com/collection/uchebniki-dlya-tehnikumov-i-vuzov-14/product/kompyuternye-seti-printsipy-tehnologii-protokoly-yubileynoe-izdanie-dopolnennoe-i-ispravlennoe) | Авторы: Виктор Олифер, Наталья Олифер
